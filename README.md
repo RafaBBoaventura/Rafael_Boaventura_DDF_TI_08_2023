@@ -6,7 +6,7 @@ Repositório criado como resposta ao processo seletivo na Dadosfera
 
 ## Case 1
 
-Para implementar uma análise de dados com o objetivo de acompanhar a satisfação dos clientes e a eficiência da minha equipe de suporte na plataforma Dadosfera (https://dadosfera.ai/), eu seguiria algumas etapas chave:
+Para implementar uma análise de dados com o objetivo de acompanhar a satisfação dos clientes e a eficiência da minha equipe de suporte na plataforma Dadosfera, eu seguiria algumas etapas chave:
 
 1. **Definir Objetivos Claros:** Estabeleceria metas específicas, como medir a satisfação dos clientes e otimizar a eficiência do suporte.
 2. **Integrar Ferramentas de Service Desk:** Conectaria soluções como HubSpot Service, Zendesk, ServiceNow, Drift e Intercom usando APIs.
